@@ -2,7 +2,8 @@
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
-  translations: {},
+  translations: {}, // Initially an empty object or the default translations
+  metaData: {}      //  digitalAppLanguageId , digitalAppLanguageName,digitalAppLastUpdated
 };
 
 const translationsSlice = createSlice({
@@ -10,7 +11,8 @@ const translationsSlice = createSlice({
   initialState,
   reducers: {
     setTranslations: (state, action) => {
-      state.translations = action.payload;
+      state.translations = action.payload.translationsData;
+      state.metaData = action.payload.metaData;
     },
   },
 });

@@ -1,10 +1,49 @@
-{
-  "change_language": "भाषा बदलें",
-  "welcome": "मेरे ऐप में आपका स्वागत है",
-  "lang_btn": "भाषा बदलें",
-  "welcome_title": "स्वागत है",
-  "second_screen": "दूसरी स्क्रीन",
-  "third_screen": "थर्ड स्क्रीन",
-  "third": "यह तीसरी स्क्रीन है",
-  "second": "यह दूसरी स्क्रीन है"
-}
+[
+  {
+    "digitalAppLanguageId": "hi",
+    "digitalAppLanguageName": "Hindi (HI)",
+    "digitalAppLastUpdated": "123455655",
+    "digital_app_elements": [
+      {
+        "element_name": "change_language",
+        "element_value": "भाषा बदलें"
+      },
+      {
+        "element_name": "welcome",
+        "element_value": "मेरे ऐप में आपका स्वागत है"
+      },
+      {
+        "element_name": "welcome_title",
+        "element_value": "स्वागत है"
+      },
+      {
+        "element_name": "second_screen",
+        "element_value": "दूसरी स्क्रीन"
+      },
+      {
+        "element_name": "third_screen",
+        "element_value": "थर्ड स्क्रीन"
+      },
+      {
+        "element_name": "third",
+        "element_value": "यह तीसरी स्क्रीन है"
+      },
+      {
+        "element_name": "second",
+        "element_value": "यह दूसरी स्क्रीन है"
+      },
+      {
+        "element_name": "curr_balance",
+        "element_value": "आपका खाता नंबर जो समाप्त होता है {{accountNumber}} के साथ मौजूद है, उसकी वर्तमान शेष है {{amount}}."
+      },
+      {
+        "element_name": "show_cache",
+        "element_value": "कैशे अनुवाद डेटा दिखाएँ"
+      },
+      {
+        "element_name": "logout",
+        "element_value": "लॉग आउट"
+      }
+    ]
+  }
+]

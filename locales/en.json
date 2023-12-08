@@ -1,10 +1,49 @@
-{
-  "change_language": "Change language",
-  "welcome": "Welcome to my app",
-  "lang_btn": "Change Language",
-  "welcome_title": "Welcome",
-  "second_screen": "Second Screen",
-  "third_screen": " Third Screen",
-  "third" : "This is third Screen",
-  "second":"This is second Screen"
-}
+[
+  {
+    "digitalAppLanguageId": "en",
+    "digitalAppLanguageName": "English (US)",
+    "digitalAppLastUpdated": "123455655",
+    "digital_app_elements": [
+      {
+        "element_name": "change_language",
+        "element_value": "Change language"
+      },
+      {
+        "element_name": "welcome",
+        "element_value": "Welcome to my app"
+      },
+      {
+        "element_name": "welcome_title",
+        "element_value": "Welcome"
+      },
+      {
+        "element_name": "second_screen",
+        "element_value": "Second Screen"
+      },
+      {
+        "element_name": "third_screen",
+        "element_value": "Third Screen"
+      },
+      {
+        "element_name": "third",
+        "element_value": "This is third Screen"
+      },
+      {
+        "element_name": "second",
+        "element_value": "This is second Screen"
+      },
+      {
+        "element_name": "curr_balance",
+        "element_value": "Your account number ending with {{accountNumber}} has current balance of {{amount}}."
+      },
+      {
+        "element_name": "show_cache",
+        "element_value": "Show Cache translation data"
+      },
+      {
+        "element_name": "logout",
+        "element_value": "Log Out"
+      }
+    ]
+  }
+]

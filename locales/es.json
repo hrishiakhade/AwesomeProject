@@ -1,10 +1,49 @@
-{
-  "change_language": "Cambiar idioma",
-  "welcome": "Bienvenido a mi aplicación",
-  "lang_btn": "Cambiar idioma",
-  "welcome_title": "Bienvenido",
-  "second_screen": "Segunda pantalla",
-  "third_screen": "Tercera pantalla",
-  "third" : "Esta es la tercera pantalla",
-  "second":"Esta es la segunda pantalla"
-}
+[
+  {
+    "digitalAppLanguageId": "es",
+    "digitalAppLanguageName": "Spanish (ES)",
+    "digitalAppLastUpdated": "123455655",
+    "digital_app_elements": [
+      {
+        "element_name": "change_language",
+        "element_value": "Cambiar idioma"
+      },
+      {
+        "element_name": "welcome",
+        "element_value": "Bienvenido a mi aplicación"
+      },
+      {
+        "element_name": "welcome_title",
+        "element_value": "Bienvenido"
+      },
+      {
+        "element_name": "second_screen",
+        "element_value": "Segunda pantalla"
+      },
+      {
+        "element_name": "third_screen",
+        "element_value": "Tercera pantalla"
+      },
+      {
+        "element_name": "third",
+        "element_value": "Esta es la tercera pantalla"
+      },
+      {
+        "element_name": "second",
+        "element_value": "Esta es la segunda pantalla"
+      },
+      {
+        "element_name": "curr_balance",
+        "element_value": "Su número de cuenta que termina en {{accountNumber}} tiene un saldo actual de {{amount}}."
+      },
+      {
+        "element_name": "show_cache",
+        "element_value": "Mostrar datos de traducción de caché"
+      },
+      {
+        "element_name": "logout",
+        "element_value": "Cerrar sesión"
+      }
+    ]
+  }
+]
